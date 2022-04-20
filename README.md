@@ -16,7 +16,9 @@ single use link
 The employer would see the request to join the company similar to a social media friend request
 The application must listen for the link (example: mp.aplicacao/<chave-da-requisicao>)
 
-# Getting Started with Create React App
+-~-
+  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
