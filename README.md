@@ -1,3 +1,21 @@
+# Employee registration on mobile via QR code, for small companies
+
+## Motivation
+
+Most leads are from small companies (Michele Passos)
+Some small businesses the employer does not have access to a desktop
+The employer experience today is 100% desktop
+Some contributors do not know which account they are logged into
+
+## Means of login
+
+Temporary link (whatsapp, email, sms)
+QR Code
+Numerical validation
+single use link
+The employer would see the request to join the company similar to a social media friend request
+The application must listen for the link (example: mp.aplicacao/<chave-da-requisicao>)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +86,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
